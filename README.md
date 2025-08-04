@@ -64,7 +64,7 @@ To be developed by the innovative Qearn team, Serendipity and Poly.
    Distributed as:
    - 100% Prize
    - 10% Burned
-   - 5% Reserve Fund
+   - 5% Reserve Fund (qx asset purchases)
    - 3% Shareholders
    - 1% Fees (website, qx, random)
    - 1% Charity (@Kimz300)
