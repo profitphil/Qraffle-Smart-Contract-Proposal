@@ -66,8 +66,8 @@ To be developed by the innovative Qearn team, Serendipity and Poly.
    - 10% Burned
    - 5% Reserve Fund
    - 3% Shareholders
-   - 1% Fees
-   - 1% Charity
+   - 1% Fees (website, qx, random)
+   - 1% Charity (@Kimz300)
 
 4. **Select token for raffle entries**  
 5. **Calculate required entries** based on token market price  
