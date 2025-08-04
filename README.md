@@ -160,8 +160,9 @@ To be developed by the innovative Qearn team, Serendipity and Poly.
 ### Frontend UI
 - Inspired by Qearn UI
 - WalletConnect
-- Hosted at: [https://qraffles.com/](https://qraffles.com/)
-- Alpha previews: [https://www.qxmr.quest/qraffles](https://www.qxmr.quest/qraffles) (Admin UI Password: `admin`)
+- To be hosted at: [https://qraffles.com/](https://qraffles.com/)
+- Example preview: [https://www.qxmr.quest/qraffles](https://www.qxmr.quest/qraffles) (Admin UI Password: `admin`)
+- Example preview does not represent Serendipity's work. It's a mock version of what it might look like.
 
 ### Smart Contract
 - Raffle logic
