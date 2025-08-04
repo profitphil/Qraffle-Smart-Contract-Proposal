@@ -150,7 +150,7 @@ To be developed by the innovative Qearn team, Serendipity and Poly.
 ## Token Owner Participation
 
 - Fee: 10M Qubic (burned)
-- Supply: 20% reserve fund
+- Supply: 50% of reward + 20% reserve fund
 - Collected tokens: Burned, sold, or returned to creator
 
 ---
