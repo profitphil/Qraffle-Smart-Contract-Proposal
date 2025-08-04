@@ -100,18 +100,39 @@ To be developed by the innovative Qearn team, Serendipity and Poly.
 - Entry: 10,000 Qubic  
 - Reserve: 1,200,000,000 Qubic  
 - Entries Needed: 120,000
+- Distribution:
+    - Prize: 1,000,000,000 Qubic (100%)
+    - Burned: 120,000,00 Qubic (10%)
+    - Reserve Fund: 60,000,000 Qubic (5%)
+    - Shareholders: 36,000,000 Qubic (3%)
+    - Fees: 12,000,000 Qubic (1%)
+    - Charity: 12,000,000 Qubic (1%)
 
 ### Example 3
 - Prize: Nostromo SC (500M Qubic value)  
 - Entry Token: Garth (8 Qubic)  
 - Reserve: 600M Qubic  
 - Entries Needed: 75,000,000 Garth
+- Distribution:
+    - Prize: 1 Nostromo SC
+    - Burned: 60,000,000 Qubic (10%)
+    - Reserve Fund: 30,000,000 Qubic (5%)
+    - Shareholders: 18,000,000 Qubic (3%)
+    - Fees: 6,000,000 Qubic (1%)
+    - Charity: 6,000,000 Qubic (1%)
 
 ### Example 4
 - Prize: CPU (600M Qubic value)  
 - Entry Token: QXMR (1 Qubic)  
 - Reserve: 720M Qubic  
 - Entries Needed: 720,000,000 QXMR
+- Distribution:
+    - Prize: CPU
+    - Burned: 72,000,000 Qubic (10%)
+    - Reserve Fund: 36,000,000 Qubic (5%)
+    - Shareholders: 21,600,000 Qubic (3%)
+    - Fees: 7,200,000 Qubic (1%)
+    - Charity: 7,200,000 Qubic (1%)
 
 ---
 
