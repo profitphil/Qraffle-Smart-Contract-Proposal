@@ -108,12 +108,12 @@ To be developed by the innovative Qearn team, Serendipity and Poly.
 
 ---
 
-## Active Qraffles (Autoload Options)
+## 6 Active Qraffles
 
-1. 1 Qubic entry → 100k Qubic reward  
-2. 1k Qubic entry → 10M Qubic reward  
-3. 10k Qubic entry → 100M Qubic reward  
-4. 50k Qubic entry → 1B Qubic reward  
+1. 1 Qubic entry → 100k Qubic reward  (auto-reload)
+2. 1k Qubic entry → 10M Qubic reward  (auto-reload)
+3. 10k Qubic entry → 100M Qubic reward  (auto-reload)
+4. 50k Qubic entry → 1B Qubic reward  (auto-reload)
 5. 1M Qubic entry → 10B reward or SC asset  
 6. Special Raffle → Tangible item or alt-token entry  
 
