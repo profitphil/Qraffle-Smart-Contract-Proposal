@@ -72,10 +72,10 @@ To be developed by the innovative Qearn team, Serendipity and Poly.
 4. **Select token for raffle entries**  
 5. **Calculate required entries** based on token market price  
 6. **Start raffle**  
-7. **Track progress bar**  
-8. When full, raffle ends  
-9. RANDOM smart contract picks winner  
-10. Distribute prize, update webhook  
+   - Track progress bar  
+   - When full, raffle ends  
+   - RANDOM smart contract picks winner  
+   - Distribute prize, update webhook  
 11. Optional: Enable auto-reload for recurring raffles
 
 ---
