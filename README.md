@@ -20,7 +20,7 @@ To be developed by the innovative Qearn team, Serendipity and Poly.
 
 ---
 
-## Problems Qraffle Solves
+## Solutions Offered by Qraffle
 
 - **Utility for Qubic Tokens**  
   → Qraffle gives Qubic tokens new use cases and reasons to hold and spend them.
