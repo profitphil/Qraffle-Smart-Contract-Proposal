@@ -87,6 +87,13 @@ To be developed by the innovative Qearn team, Serendipity and Poly.
 - Entry: 1 Qubic  
 - Reserve: 1,200,000 Qubic  
 - Entries Needed: 1,200,000
+- Distribution:
+    - Prize: 1,000,000 Qubic (100%)
+    - Burned: 120,000 Qubic (10%)
+    - Reserve Fund: 60,000 Qubic (5%)
+    - Shareholders: 36,000 Qubic (3%)
+    - Fees: 12,000 Qubic (1%)
+    - Charity: 12,000 Qubic (1%)
 
 ### Example 2
 - Prize: 1,000,000,000 Qubic  
