@@ -109,12 +109,12 @@ To be developed by the innovative Qearn team, Serendipity and Poly.
     - Charity: 12,000,000 Qubic (1%)
 
 ### Example 3
-- Prize: Nostromo SC (500M Qubic value)  
+- Prize: Qswap SC (500M Qubic value)  
 - Entry Token: Garth (8 Qubic)  
 - Reserve: 600M Qubic  
 - Entries Needed: 75,000,000 Garth
 - Distribution:
-    - Prize: 1 Nostromo SC
+    - Prize: 1 Qswap SC
     - Burned: 60,000,000 Qubic (10%)
     - Reserve Fund: 30,000,000 Qubic (5%)
     - Shareholders: 18,000,000 Qubic (3%)
