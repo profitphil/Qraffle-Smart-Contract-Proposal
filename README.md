@@ -182,10 +182,10 @@ To be developed by the innovative Qearn team, Serendipity and Poly.
 1. Connect wallet with WalletConnect  
 2. Select a raffle  
 3. Send entries (no limit)  
-4. Wait for completion  
+4. Watch for raffle completion  
 5. If selected, prize is sent automatically  
-6. Webhook updates results  
-7. Tangible prizes require ownership verification and shipping details  
+6. Webhook with raffle results  
+7. Tangible prizes require wallet ownership verification and shipping details  
 
 ---
 
