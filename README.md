@@ -183,7 +183,7 @@ Should a token creator request to burn all or a portion of collected tokens, tok
 - Inspired by Qearn UI
 - WalletConnect
 - To be hosted at: [https://qraffles.com/](https://qraffles.com/)
-- Example preview: [https://www.qxmr.quest/qraffles](https://www.qxmr.quest/qraffles) (Admin UI Password: `admin`)
+- Example preview: [https://www.qxmr.quest/qraffles](https://www.qxmr.quest/qraffles) (Admin Panel- Password: `admin`)
 - Example preview does not represent Serendipity's work. It's a mock version of what it might look like.
 
 ### Smart Contract
