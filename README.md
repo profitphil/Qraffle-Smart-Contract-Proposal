@@ -79,6 +79,7 @@ Key terms defined
 - **Reserve:** The amount need to complete a raffle in order to fulfill all required distributions.
 - **Purchase Fund:** The fund used to purchase assets from Qx to be used in future raffles.
 - **Entries needed:** The amount of raffle entries required to meet reserve and complete a raffle.
+- **Fees:** Collected to pay for monthly website expenses, qx fees, transfer fees, RANDOM, etc)
 
 ### 5.1 Qraffle Logic
 
@@ -92,9 +93,9 @@ Key terms defined
    Distributed as:
    - 100% Prize
    - 10% Burned
-   - 5% Purchase Fund (qx asset purchases)
+   - 5% Purchase Fund
    - 3% Shareholders
-   - 1% Fees (website, qx, random)
+   - 1% Fees
    - 1% Charity (@Kimz300)
 
 4. **Select token for raffle entries**  
