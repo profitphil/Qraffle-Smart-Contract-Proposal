@@ -114,12 +114,12 @@ Key terms defined
     - Charity: 12,000,000 Qubic (1%)
 
 ### Example 3
-- Prize: Qswap SC (500M Qubic value)  
+- Prize: 1 Qswap share (500M Qubic value)  
 - Entry Token: Garth (8 Qubic)  
 - Reserve: 600M Qubic  
 - Entries Needed: 75,000,000 Garth
 - Distribution:
-    - Prize: 1 Qswap SC
+    - Prize: 1 Qswap share
     - Burned: 60,000,000 Qubic (10%)
     - Purchase Fund: 30,000,000 Qubic (5%)
     - Shareholders: 18,000,000 Qubic (3%)
