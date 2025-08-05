@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Qraffle is a simple, smart contract-powered raffle system. It uses Qubic’s native `RANDOM` smart contract to ensure fair and transparent winner selection. Qraffle is designed to serve the Qubic ecosystem by offering a fun, community-driven application with real economic benefits. It’s deflationary, pays dividends, and donates to charity!
+Qraffle is a simple, smart contract-powered raffle system. Unlike Quottery, which places yes/no bets, Qraffle uses Qubic’s native `RANDOM` smart contract to ensure fair and transparent winner selection. Qraffle is designed to serve the Qubic ecosystem by offering a fun, community-driven application with real economic benefits. It’s deflationary, pays dividends, and donates to charity!
 
 To be developed by the innovative Qearn team, Serendipity and Poly.  
 **Funding Request:** $20,000 USD (7.5B Qu @ 0.0000026)  
