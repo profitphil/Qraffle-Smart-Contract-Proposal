@@ -52,6 +52,11 @@ To be developed by the innovative Qearn team, Serendipity and Poly.
 
 ## Business Model
 
+Key terms defined
+- **Reserve:** The amount need to complete a raffle in order to fulfill all required distributions.
+- **Purchase Fund:** The fund used to purchase assets from Qx to be used in future raffles.
+- **Entries needed:** The amount of raffle entries required to meet reserve and complete a raffle.
+
 ### Qraffle Logic
 
 1. **Choose prize type:**
@@ -64,7 +69,7 @@ To be developed by the innovative Qearn team, Serendipity and Poly.
    Distributed as:
    - 100% Prize
    - 10% Burned
-   - 5% Reserve Fund (qx asset purchases)
+   - 5% Purchase Fund (qx asset purchases)
    - 3% Shareholders
    - 1% Fees (website, qx, random)
    - 1% Charity (@Kimz300)
@@ -73,9 +78,9 @@ To be developed by the innovative Qearn team, Serendipity and Poly.
 5. **Calculate required entries** based on token market price  
 6. **Start raffle**  
    - Track progress bar  
-   - When full, raffle ends  
+   - When reserve is reached(entries needed is met), raffle ends  
    - RANDOM smart contract picks winner  
-   - Distribute prize, update webhook  
+   - Distribute prize, webhook sent with raffle details and winner 
 11. Optional: Enable auto-reload for recurring raffles
 
 ---
@@ -90,7 +95,7 @@ To be developed by the innovative Qearn team, Serendipity and Poly.
 - Distribution:
     - Prize: 1,000,000 Qubic (100%)
     - Burned: 120,000 Qubic (10%)
-    - Reserve Fund: 60,000 Qubic (5%)
+    - Purchase Fund: 60,000 Qubic (5%)
     - Shareholders: 36,000 Qubic (3%)
     - Fees: 12,000 Qubic (1%)
     - Charity: 12,000 Qubic (1%)
@@ -103,7 +108,7 @@ To be developed by the innovative Qearn team, Serendipity and Poly.
 - Distribution:
     - Prize: 1,000,000,000 Qubic (100%)
     - Burned: 120,000,00 Qubic (10%)
-    - Reserve Fund: 60,000,000 Qubic (5%)
+    - Purchase Fund: 60,000,000 Qubic (5%)
     - Shareholders: 36,000,000 Qubic (3%)
     - Fees: 12,000,000 Qubic (1%)
     - Charity: 12,000,000 Qubic (1%)
@@ -116,7 +121,7 @@ To be developed by the innovative Qearn team, Serendipity and Poly.
 - Distribution:
     - Prize: 1 Qswap SC
     - Burned: 60,000,000 Qubic (10%)
-    - Reserve Fund: 30,000,000 Qubic (5%)
+    - Purchase Fund: 30,000,000 Qubic (5%)
     - Shareholders: 18,000,000 Qubic (3%)
     - Fees: 6,000,000 Qubic (1%)
     - Charity: 6,000,000 Qubic (1%)
@@ -129,7 +134,7 @@ To be developed by the innovative Qearn team, Serendipity and Poly.
 - Distribution:
     - Prize: CPU
     - Burned: 72,000,000 Qubic (10%)
-    - Reserve Fund: 36,000,000 Qubic (5%)
+    - Purchase Fund: 36,000,000 Qubic (5%)
     - Shareholders: 21,600,000 Qubic (3%)
     - Fees: 7,200,000 Qubic (1%)
     - Charity: 7,200,000 Qubic (1%)
@@ -142,16 +147,33 @@ To be developed by the innovative Qearn team, Serendipity and Poly.
 2. 1k Qubic entry → 10M Qubic reward  (auto-reload)
 3. 10k Qubic entry → 100M Qubic reward  (auto-reload)
 4. 50k Qubic entry → 1B Qubic reward  (auto-reload)
-5. 1M Qubic entry → 10B reward or SC asset  
-6. Special Raffle → Tangible item or alt-token entry  
+5. 1M Qubic entry → 5B+ Qubic reward or SC asset  
+6. Special Raffle → Tangible item or alt-token entry
 
+## Epoch Estimates
+**Qubic Burned**
+- Small entry raffles (1 and 1000 Qubic) estimate at least 1 raffle completed each day
+  - 1 Qubic entry raffle burns 10,000 Qubic = 7 days = 70k Qubic burned
+  - 1k Qubic entray burns 1M Qubic x 7 days = 7M Qubic burned
+- Remaining raffles are estimated to complete 1 each epoch
+  - 10k Qubic entry burns 10M Qubic 
+  - 50k Qubic entry burns 100M Qubic 
+  - 1M Qubic entry est burns 20M - 1B Qubic (depends on which sc share or Qubic Reward (5B, 10B, etc)
+  - Special Raffle burn depends on value of item
+- Estimated Minimum Weekly Qubic Burned 250m+ (13B+ annually)
+
+**Charity Donated**
+  - 25m+ Qubic each Epoch (1.3B+ annually)
+  
 ---
 
-## Token Owner Participation
+## Tokens for Entries
 
-- Fee: 10M Qubic (burned)
-- Supply: 50% of reward + 20% reserve fund
-- Collected tokens: Burned, sold, or returned to creator
+When a raffle uses a token(other than qu), the reserve amount must be available/deposited in order to start auciton.
+Once raffle is completed, the collect tokens will be sold on Qx to pay for completed raffle.
+
+**Token Deflationary Measures:**
+Should a token creator request to burn all or a portion of collected tokens, token creator must pay that portion of reserve. Then that portion of tokens will be burned.
 
 ---
 
@@ -184,7 +206,7 @@ To be developed by the innovative Qearn team, Serendipity and Poly.
 2. Select a raffle  
 3. Send entries (no limit)  
 4. Watch for raffle completion  
-5. If selected, prize is sent automatically  
+5. If selected, prize(Qubic or assets) is sent automatically by Qraffle SC
 6. Webhook with raffle results  
 7. Tangible prizes require wallet ownership verification and shipping details  
 
@@ -231,7 +253,7 @@ To be developed by the innovative Qearn team, Serendipity and Poly.
 **Total Request:** $20,000 USD  
 - SC development 240 hrs @$60/hr = $14,400
 - Frontend + UI development - 120 hrs @$35/hr = $4,200
-- Website development - $1400
+- Webserver setup/development - $1400
   
 **Disbursement:**
 - M1 – 20%  
