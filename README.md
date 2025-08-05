@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Qraffle is a simple, smart contract-powered raffle system. Unlike Quottery, which places yes/no bets, Qraffle uses Qubic’s native `RANDOM` smart contract to ensure fair and transparent winner selection. Qraffle is designed to serve the Qubic ecosystem by offering a fun, community-driven application with real economic benefits. It’s deflationary, pays dividends, and donates to charity!
+Qraffle is a simple, smart contract-powered raffle system. Unlike Quottery, which places yes/no bets, Qraffle will use Qubic’s native `RANDOM` smart contract to ensure fair and transparent winner selection. Qraffle is designed to serve the Qubic ecosystem by offering a fun, community-driven application with real economic benefits. It’s deflationary, pays dividends, and donates to charity!
 
 To be developed by the innovative Qearn team, Serendipity and Poly.  
 **Funding Request:** $20,000 USD (7.5B Qu @ 0.0000026)  
@@ -12,7 +12,7 @@ To be developed by the innovative Qearn team, Serendipity and Poly.
 
 ## Key Features
 
-- **Fair Winner Selection:** Uses Qubic’s `RANDOM` smart contract for verifiable, tamper-proof results.
+- **Fair Winner Selection:** Will use Qubic’s `RANDOM` smart contract for verifiable, tamper-proof results.
 - **Open Entry:** Accepts any Qubic-based token for raffle entries, defaulted to Qubic.
 - **Deflationary Utility:** A portion of every raffle is burned, reducing overall Qubic supply.
 - **Dividends:** Qraffle distributes a share of earnings to token shareholders.
@@ -32,7 +32,7 @@ To be developed by the innovative Qearn team, Serendipity and Poly.
   → Provides a fun, fair, and repeatable activity that builds on-chain engagement.
 
 - **Trust in Randomness**  
-  → Uses Qubic’s built-in `RANDOM`, ensuring on-chain, provable fairness.
+  → Will use Qubic’s built-in `RANDOM`, ensuring on-chain, provable fairness.
 
 - **Social Impact**  
   → Donates to real-world causes, positioning Qubic as a community-minded ecosystem.
