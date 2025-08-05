@@ -1,6 +1,29 @@
 # Qraffle Smart Contract Proposal
 
-## Introduction
+## 📚 Table of Contents
+
+1. [Introduction](#1-introduction)  
+2. [Key Features](#2-key-features)  
+3. [Solutions Offered by Qraffle](#3-solutions-offered-by-qraffle)  
+4. [How Qraffle Benefits Qubic](#4-how-qraffle-benefits-qubic)  
+5. [Business Model](#5-business-model)  
+   - [5.1 Qraffle Logic](#51-qraffle-logic)  
+6. [Examples](#6-examples)  
+7. [6 Active Qraffles Planned](#7-6-active-qraffles-planned)  
+8. [Epoch Estimates](#8-epoch-estimates)  
+9. [Tokens for Entries](#9-tokens-for-entries)  
+10. [Components to Be Developed](#10-components-to-be-developed)  
+11. [Technical Architecture](#11-technical-architecture)  
+12. [User Journey](#12-user-journey)  
+13. [Detailed Scope and Timeline](#13-detailed-scope-and-timeline)  
+14. [Milestones and Deliverables](#14-milestones-and-deliverables)  
+15. [Payment Terms](#15-payment-terms)  
+16. [Team Composition](#16-team-composition)
+
+---
+# Qraffle Smart Contract Proposal
+
+## 1. Introduction
 
 Qraffle is a simple, smart contract-powered raffle system. Unlike Quottery, which places yes/no bets, Qraffle will use Qubic’s native `RANDOM` smart contract to ensure fair and transparent winner selection. Qraffle is designed to serve the Qubic ecosystem by offering a fun, community-driven application with real economic benefits. It’s deflationary, pays dividends, and donates to charity!
 
@@ -10,7 +33,7 @@ To be developed by the innovative Qearn team, Serendipity and Poly.
 
 ---
 
-## Key Features
+## 2. Key Features
 
 - **Fair Winner Selection:** Will use Qubic’s `RANDOM` smart contract for verifiable, tamper-proof results.
 - **Open Entry:** Accepts any Qubic-based token for raffle entries, defaulted to Qubic.
@@ -20,7 +43,7 @@ To be developed by the innovative Qearn team, Serendipity and Poly.
 
 ---
 
-## Solutions Offered by Qraffle
+## 3. Solutions Offered by Qraffle
 
 - **Utility for Qubic Tokens**  
   → Qraffle gives Qubic tokens new use cases and reasons to hold and spend them.
@@ -39,7 +62,7 @@ To be developed by the innovative Qearn team, Serendipity and Poly.
 
 ---
 
-## How Qraffle Benefits Qubic
+## 4. How Qraffle Benefits Qubic
 
 - Increases QX transaction volume and network usage.
 - Encourages token diversity by accepting any Qubic token.
@@ -50,14 +73,14 @@ To be developed by the innovative Qearn team, Serendipity and Poly.
 
 ---
 
-## Business Model
+## 5. Business Model
 
 Key terms defined
 - **Reserve:** The amount need to complete a raffle in order to fulfill all required distributions.
 - **Purchase Fund:** The fund used to purchase assets from Qx to be used in future raffles.
 - **Entries needed:** The amount of raffle entries required to meet reserve and complete a raffle.
 
-### Qraffle Logic
+### 5.1 Qraffle Logic
 
 1. **Choose prize type:**
    - Qubic
@@ -85,7 +108,7 @@ Key terms defined
 
 ---
 
-## Examples
+## 6. Examples
 
 ### Example 1
 - Prize: 1,000,000 Qubic  
@@ -141,7 +164,7 @@ Key terms defined
 
 ---
 
-## 6 Active Qraffles Planned
+## 7. 6 Active Qraffles Planned
 
 1. 1 Qubic entry → 100k Qubic reward  (auto-reload)
 2. 1k Qubic entry → 10M Qubic reward  (auto-reload)
@@ -150,7 +173,7 @@ Key terms defined
 5. 1M Qubic entry → 5B+ Qubic reward or SC asset  
 6. Special Raffle → Tangible item or alt-token entry
 
-## Epoch Estimates
+## 8. Epoch Estimates
 **Qubic Burned**
 - Small entry raffles (1 and 1000 Qubic) estimate at least 1 raffle completed each day
   - 1 Qubic entry raffle burns 10,000 Qubic x 7 days = 70k Qubic burned each epoch
@@ -167,7 +190,7 @@ Key terms defined
   
 ---
 
-## Tokens for Entries
+## 9. Tokens for Entries
 
 When a raffle uses a token(other than qu), the reserve amount must be available/deposited in order to start auciton.
 Once raffle is completed, the collect tokens will be sold on Qx to pay for completed raffle.
@@ -177,7 +200,7 @@ Should a token creator request to burn all or a portion of collected tokens, tok
 
 ---
 
-## Components to Be Developed
+## 10. Components to Be Developed
 
 ### Frontend UI
 - Inspired by Qearn UI
@@ -193,14 +216,14 @@ Should a token creator request to burn all or a portion of collected tokens, tok
 
 ---
 
-## Technical Architecture
+## 11. Technical Architecture
 
 - **Smart Contract:** C++ (Qubic environment)  
 - **Frontend:** React + Vite + Qubic Connect  
 
 ---
 
-## User Journey
+## 12. User Journey
 
 1. Connect wallet with WalletConnect  
 2. Select a raffle  
@@ -212,7 +235,7 @@ Should a token creator request to burn all or a portion of collected tokens, tok
 
 ---
 
-## Detailed Scope and Timeline
+## 13. Detailed Scope and Timeline
 
 ### Estimated Duration: 6–8 Weeks
 
@@ -225,7 +248,7 @@ Should a token creator request to burn all or a portion of collected tokens, tok
 
 ---
 
-## Milestones and Deliverables
+## 14. Milestones and Deliverables
 
 ### Milestone 1 (20%)
 - UI mockup (no logic)
@@ -248,7 +271,7 @@ Should a token creator request to burn all or a portion of collected tokens, tok
 
 ---
 
-## Payment Terms
+## 15. Payment Terms
 
 **Total Request:** $20,000 USD  
 - SC development 240 hrs @$60/hr = $14,400
@@ -263,7 +286,7 @@ Should a token creator request to burn all or a portion of collected tokens, tok
 
 ---
 
-## Team Composition
+## 16. Team Composition
 
 - **Profitphil** – Team Lead  
 - **Serendıpıtч** – Lead Frontend UI Developer  
