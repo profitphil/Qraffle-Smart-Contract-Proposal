@@ -69,7 +69,7 @@ To be developed by the innovative Qearn team, Serendipity and Poly.
 - Demonstrates real-world use of Qubic’s RANDOM smart contract.
 - Adds a sustainable method to reduce token supply.
 - Enhances Qubic’s credibility through charitable giving.
-- Offers rewards and passive income for long-term holders.
+- Offers rewards and passive income for shareholders.
 
 ---
 
