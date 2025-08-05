@@ -275,8 +275,8 @@ Should a token creator request to burn all or a portion of collected tokens, tok
 
 **Total Request:** $20,000 USD  
 - SC development 240 hrs @$60/hr = $14,400
-- Frontend + UI development - 120 hrs @$35/hr = $4,200
-- Webserver setup/development - $1400
+- Frontend + UI development - 120 hrs @$40/hr = $4,800
+- Webserver setup/development - $800
   
 **Disbursement:**
 - M1 – 20%  
