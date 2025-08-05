@@ -136,7 +136,7 @@ To be developed by the innovative Qearn team, Serendipity and Poly.
 
 ---
 
-## 6 Active Qraffles
+## 6 Active Qraffles Planned
 
 1. 1 Qubic entry → 100k Qubic reward  (auto-reload)
 2. 1k Qubic entry → 10M Qubic reward  (auto-reload)
@@ -229,6 +229,10 @@ To be developed by the innovative Qearn team, Serendipity and Poly.
 ## Payment Terms
 
 **Total Request:** $20,000 USD  
+- SC development 240 hrs @$60/hr = $14,400
+- Frontend + UI development - 120 hrs @$35/hr = $4,200
+- Website development - $1400
+  
 **Disbursement:**
 - M1 – 20%  
 - M2 – 30%  
