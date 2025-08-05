@@ -174,7 +174,7 @@ Key terms defined
 6. Special Raffle → Tangible item or alt-token entry
 
 ## 8. Epoch Estimates
-**Qubic Burned**
+**Qubic Burned(10%)**
 - Small entry raffles (1 and 1000 Qubic) anticipate at least 1 raffle completed each day
   - 1 Qubic entry raffle burns 10,000 Qubic x 7 days = 70k Qubic burned each epoch
   - 1k Qubic entray burns 1M Qubic x 7 days = 7M Qubic burned each epoch
@@ -186,7 +186,17 @@ Key terms defined
   - Entry amounts will be lowered if needed to get more engagement.
 - Anticipated Minimum Weekly Qubic Burned 250m+ (13B+ annually)
 
-**Charity Donated**
+**Purchase Fund(5%)**
+  - 125m+ Qubic each Epoch 
+
+**Shareholder Revenue(3%)**
+  - 75m+ Qubic each Epoch 
+  - 111k+ Qubic per share 
+   
+**Fees Collected(1%)**
+  - 25m+ Qubic each Epoch 
+
+**Charity Donated(1%)**
   - 25m+ Qubic each Epoch (1.3B+ annually)
   
 ---
