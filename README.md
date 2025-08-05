@@ -164,7 +164,7 @@ Key terms defined
 
 ---
 
-## 7. 6 Active Qraffles Planned
+## 7. Six Active Qraffles Planned
 
 1. 1 Qubic entry → 100k Qubic reward  (auto-reload)
 2. 1k Qubic entry → 10M Qubic reward  (auto-reload)
@@ -175,15 +175,16 @@ Key terms defined
 
 ## 8. Epoch Estimates
 **Qubic Burned**
-- Small entry raffles (1 and 1000 Qubic) estimate at least 1 raffle completed each day
+- Small entry raffles (1 and 1000 Qubic) anticipate at least 1 raffle completed each day
   - 1 Qubic entry raffle burns 10,000 Qubic x 7 days = 70k Qubic burned each epoch
   - 1k Qubic entray burns 1M Qubic x 7 days = 7M Qubic burned each epoch
-- Remaining raffles are estimated to complete 1 each epoch
+- Remaining raffles are anticipated to complete 1 each epoch
   - 10k Qubic entry burns 10M Qubic 
   - 50k Qubic entry burns 100M Qubic 
   - 1M Qubic entry est burns 20M - 1B Qubic (depends on which sc share or Qubic Reward (5B, 10B, etc)
   - Special Raffle burn depends on value of item
-- Estimated Minimum Weekly Qubic Burned 250m+ (13B+ annually)
+  - Entry amounts will be lowered if needed to get more engagement.
+- Anticipated Minimum Weekly Qubic Burned 250m+ (13B+ annually)
 
 **Charity Donated**
   - 25m+ Qubic each Epoch (1.3B+ annually)
