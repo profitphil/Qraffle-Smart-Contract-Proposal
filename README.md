@@ -153,8 +153,8 @@ Key terms defined
 ## Epoch Estimates
 **Qubic Burned**
 - Small entry raffles (1 and 1000 Qubic) estimate at least 1 raffle completed each day
-  - 1 Qubic entry raffle burns 10,000 Qubic = 7 days = 70k Qubic burned
-  - 1k Qubic entray burns 1M Qubic x 7 days = 7M Qubic burned
+  - 1 Qubic entry raffle burns 10,000 Qubic x 7 days = 70k Qubic burned each epoch
+  - 1k Qubic entray burns 1M Qubic x 7 days = 7M Qubic burned each epoch
 - Remaining raffles are estimated to complete 1 each epoch
   - 10k Qubic entry burns 10M Qubic 
   - 50k Qubic entry burns 100M Qubic 
